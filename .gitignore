@@ -1,0 +1,36 @@
+# Data files (too large for git - must be re-fetched via scripts)
+data/forcing/
+data/observations/
+
+# Keep metadata (small)
+!data/snotel_metadata.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.egg
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+env/
+venv/

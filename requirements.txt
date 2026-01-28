@@ -1,0 +1,10 @@
+# Core dependencies
+numpy
+pandas
+matplotlib
+
+# HydroData API
+hf_hydrodata
+
+# Mapping (install via conda: conda install -c conda-forge cartopy)
+# cartopy  # Commented out - install via conda for proper GEOS/PROJ dependencies
